@@ -34,7 +34,6 @@ class $modify(ProfilePage) {
 		statsMap[p0->m_secretCoins] = secretCoinsLabel;
 		statsMap[p0->m_userCoins] = userCoinsLabel;
 		statsMap[p0->m_demons] = demonsLabel;
-		statsMap[p0->m_creatorPoints] = creatorPointsLabel;
 
 		if (p0->m_creatorPoints != 0) statsMap.insert({p0->m_creatorPoints, creatorPointsLabel});
 
