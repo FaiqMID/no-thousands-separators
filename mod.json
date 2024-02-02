@@ -1,9 +1,9 @@
 {
-	"geode": "2.0.0-beta.12",
-	"gd": "2.204",
-	"version": "v1.0.0",
-	"id": "faiqmid.no-thousands-separators",
-	"name": "no-thousands-separators",
-	"developer": "FaiqMID",
-	"description": "remove thousands separators from profile stats and level stats (downloads and likes)"
+  "geode": "2.0.0-beta.12",
+  "gd": "2.204",
+  "version": "v1.0.0",
+  "id": "faiqmid.no-thousands-separators",
+  "name": "No Thousands Separators",
+  "developer": "FaiqMID",
+  "description": "remove thousands separators from profile stats, leaderboard and level stats"
 }
