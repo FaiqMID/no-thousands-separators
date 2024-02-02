@@ -1,5 +1,7 @@
 # No Thousands Separators
 
+[logo.png](logo.png)
+
 Update 2.2 (or 2.21? idk will look this up later) added thousands separators (commas) to some of the displayed numbers in Geometry Dash. This mod remove them. Requested by someone.
 
 Secret coins stats are not handled, will do in like 10000 years (or you can just uncomment them in the code).
