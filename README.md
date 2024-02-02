@@ -6,7 +6,7 @@ Secret coins stats are not handled, will do in like 10000 years (or you can just
 
 pokok e mengdelet koma tina angka di geometry dash, y udah that's it sih
 
-TODO:
+## TODO:
 - fix text alignment (it's actually working but there're mysterious invisible CCFontSprite that only appears when setting labels with the string that have some characters removed from the og string. idk how to fix this atm)
 - add feature to level stats
 - add feature to leaderboard
